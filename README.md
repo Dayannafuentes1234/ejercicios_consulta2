@@ -34,7 +34,7 @@ c. ordene la cedula en dorma descendente por cedula
 
 `SELECT TOP 10 nombre AS "Razon social", cedula AS "Identificacion" FROM Empleado WHERE (ciudad="bogota")ORDER BY cedula DESC`
 
-![consulta4](/img/consulta4.png"conuslta4")
+![consulta4](/img/consulta4.png "conusulta4")
 
 5. Realizar una consulta que entregue el nombre, identificacion, sueldo, edad de los empleados cuyos sueldos estren entre $800000 y $1200000 y cuyas edades esten entre 23 y 30 años.
 
